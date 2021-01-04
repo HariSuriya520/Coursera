@@ -63,3 +63,11 @@ body {
     left: 0;
     min-height: 250px;
 }
+
+.form-group {
+    color: black;
+}
+
+.modal-title {
+    color: black;
+}
