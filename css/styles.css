@@ -71,3 +71,9 @@ body {
 .modal-title {
     color: black;
 }
+
+#carouselButtons {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
