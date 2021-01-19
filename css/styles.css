@@ -40,8 +40,11 @@ body {
 .modal-title {
   color: floralwhite; }
 
-button .close {
+button.close {
   color: floralwhite; }
+
+.form-group {
+  color: black; }
 
 .tab-content {
   border-left: 1px solid #ddd;
