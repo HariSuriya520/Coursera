@@ -31,6 +31,22 @@ body {
 .navbar-dark {
   background-color: #512DA8; }
 
+.modal-header {
+  background-color: #512DA8; }
+
+.modal-body {
+  background-color: #D1C4E9; }
+
+.modal-title {
+  color: floralwhite; }
+
+button.close {
+  color: floralwhite; }
+
+  .form-group {
+      color: black;
+  }
+
 .tab-content {
   border-left: 1px solid #ddd;
   border-right: 1px solid #ddd;
@@ -52,11 +68,3 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
-
-  .form-group {
-      color: black;
-  }
-  
-  .modal-title {
-      color: black;
-  }

@@ -47,6 +47,21 @@ body{
      background-color: $background-dark;
 }
 
+.modal-header {
+    background-color: $background-dark;
+}
+.modal-body {
+    background-color: $background-pale;
+}
+
+.modal-title {
+    color: floralwhite;
+}
+
+button .close {
+    color: floralwhite;
+}
+
 .tab-content {
     border-left: 1px solid $lt-gray;
     border-right: 1px solid $lt-gray;
