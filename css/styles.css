@@ -43,6 +43,9 @@ body {
 button.close {
   color: floralwhite; }
 
+button.close:hover {
+  color: floralwhite; }
+
 .form-group {
   color: black; }
 
